@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JameeShahriyarAmit
 - 👀 I’m interested in watching anime and playing the guitar.
-- 🌱 I’m currently learning andriod development.
+- 🌱 I’m currently learning android development.
 - 📫 How to reach me 
 
 <!---
