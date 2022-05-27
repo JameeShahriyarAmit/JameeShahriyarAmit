@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JameeShahriyarAmit
-- 👀 I’m interested in watching anime and playing the guitar.
 - 🌱 I have spent the past three years studying courses centered around Software Engineering and deploying several applications for school projects.
 - 🌱  have obtained a good deal of experience in application development, project management with Scrum methodology, API integration, and other related technical skills. In particular, I have learned good, clean coding practices and robust unit testing techniques to ensure code readability, reusability, and reliability. I have experience in dealing with stakeholders and acquiring the proper requirements for the application. 
 - 📫 How to reach me 
